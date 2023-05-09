@@ -1,7 +1,6 @@
 # Change these first
 owner: ForesightMiningSoftwareCorporation
 repo: upptime
-githubUserContentBaseUrl: https://53e74d521f10.ngrok.app/status-board
 sites:
   - name: Production server
     url: $PREDICT_PROD_URL/healthz
@@ -10,6 +9,7 @@ status-website:
   cname: status.foresightmining.com
   name: ForesightMiningSoftwareCorporation
   apiBaseUrl: https://53e74d521f10.ngrok.app/status-board
+  userContentBaseUrl: https://53e74d521f10.ngrok.app/status-board
   theme: dark
   navbar:
     - title: Status
