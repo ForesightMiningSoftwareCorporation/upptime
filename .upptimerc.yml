@@ -8,8 +8,8 @@ sites:
 status-website:
   cname: status.foresightmining.com
   name: ForesightMiningSoftwareCorporation
-  apiBaseUrl: https://53e74d521f10.ngrok.app/status-board
-  userContentBaseUrl: https://53e74d521f10.ngrok.app/status-board
+  apiBaseUrl: https://gh.dc1.foresightmining.com/status-board
+  userContentBaseUrl: https://gh.dc1.foresightmining.com/status-board
   theme: dark
   navbar:
     - title: Status
