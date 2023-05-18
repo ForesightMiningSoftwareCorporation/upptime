@@ -6,6 +6,8 @@ sites:
     url: $PREDICT_PROD_URL/healthz
   - name: Whirlpool updates
     url: $PREDICT_PROD_URL/fse/update?software=whirlpool&channel=nightly&platform=windows
+  - name: Development server
+    url: $PREDICT_DEV_URL/healthz
 
 status-website:
   cname: status.foresightmining.com
