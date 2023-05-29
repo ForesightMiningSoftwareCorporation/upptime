@@ -1,7 +1,7 @@
 url: $PREDICT_PROD_URL/healthz
 status: up
 code: 200
-responseTime: 129
-lastUpdated: 2023-05-28T23:00:36.031Z
+responseTime: 92
+lastUpdated: 2023-05-29T23:00:23.865Z
 startTime: Tue May 09 2023 19:41:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
