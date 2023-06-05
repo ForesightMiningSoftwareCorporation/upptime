@@ -4,10 +4,10 @@
     "url": "$PREDICT_PROD_URL/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "production-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 133,
@@ -16,6 +16,7 @@
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2023-06-05": 1,
       "2023-05-19": 72
     }
   },
@@ -24,10 +25,10 @@
     "url": "$PREDICT_PROD_URL/fse/update?software=whirlpool&channel=nightly&platform=windows",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whirlpool-updates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
@@ -35,16 +36,18 @@
     "timeWeek": 68,
     "timeMonth": 74,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 1
+    }
   },
   {
     "name": "Development server",
     "url": "$PREDICT_DEV_URL/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "development-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -54,6 +57,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2023-06-05": 0,
       "2023-05-19": 72
     }
   }
