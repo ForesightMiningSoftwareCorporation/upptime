@@ -12,8 +12,6 @@ sites:
 status-website:
   cname: status.foresightmining.com
   name: ForesightMiningSoftwareCorporation
-  apiBaseUrl: https://gh.dc1.foresightmining.com/status-board
-  userContentBaseUrl: https://gh.dc1.foresightmining.com/status-board
   theme: dark
   runner: "[self-hosted, standard]"
   navbar:
