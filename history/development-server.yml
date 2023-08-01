@@ -1,7 +1,7 @@
 url: $PREDICT_DEV_URL/healthz
-status: down
-code: 503
-responseTime: 50
-lastUpdated: 2023-07-31T23:00:24.219Z
+status: up
+code: 200
+responseTime: 73
+lastUpdated: 2023-08-01T09:32:55.418Z
 startTime: Thu May 18 2023 08:35:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
