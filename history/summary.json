@@ -4,11 +4,11 @@
     "url": "$PREDICT_PROD_URL/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "production-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 136,
     "timeDay": 197,
@@ -16,7 +16,7 @@
     "timeMonth": 123,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-11-02": 9,
+      "2023-11-02": 1,
       "2023-08-09": 18,
       "2023-05-19": 72
     }
@@ -26,11 +26,11 @@
     "url": "$PREDICT_PROD_URL/fse/update?software=whirlpool&channel=nightly&platform=windows",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whirlpool-updates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 77,
     "timeDay": 79,
@@ -38,7 +38,7 @@
     "timeMonth": 65,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-11-02": 9,
+      "2023-11-02": 0,
       "2023-08-09": 18
     }
   },
