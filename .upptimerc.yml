@@ -3,11 +3,11 @@ owner: ForesightMiningSoftwareCorporation
 repo: upptime
 sites:
   - name: Production server
-    url: $PREDICT_PROD_URL/healthz
+    url: $PREDICT_PROD_URL
   - name: Whirlpool updates
     url: $PREDICT_PROD_URL/fse/update?software=whirlpool&channel=nightly&platform=windows
   - name: Development server
-    url: $PREDICT_DEV_URL/healthz
+    url: $PREDICT_DEV_URL
 
 status-website:
   cname: status.foresightmining.com
