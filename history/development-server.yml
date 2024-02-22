@@ -1,7 +1,7 @@
 url: $PREDICT_DEV_URL
-status: down
-code: 503
-responseTime: 97
-lastUpdated: 2024-02-22T15:04:59.062Z
+status: up
+code: 200
+responseTime: 108
+lastUpdated: 2024-02-22T15:35:12.760Z
 startTime: 2023-05-18T08:35:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
