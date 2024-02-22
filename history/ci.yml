@@ -1,7 +1,7 @@
 url: $FSLABS_CI_URL
-status: down
-code: 502
-responseTime: 394
-lastUpdated: 2024-02-22T08:34:50.043Z
+status: up
+code: 200
+responseTime: 755
+lastUpdated: 2024-02-22T08:43:38.076Z
 startTime: 2024-02-19T10:25:04.221Z
 generator: Upptime <https://github.com/upptime/upptime>
