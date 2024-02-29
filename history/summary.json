@@ -12,8 +12,8 @@
     "uptimeYear": "99.98%",
     "time": 171,
     "timeDay": 185,
-    "timeWeek": 214,
-    "timeMonth": 186,
+    "timeWeek": 225,
+    "timeMonth": 187,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-08-09": 18,
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 864,
-    "timeWeek": 242,
+    "timeWeek": 257,
     "timeMonth": 166,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "time": 171,
     "timeDay": 129,
     "timeWeek": 130,
-    "timeMonth": 143,
+    "timeMonth": 141,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2024-02-22": 30,
@@ -84,19 +84,19 @@
     "url": "$FSLABS_CI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ci",
-    "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
-    "time": 585,
-    "timeDay": 645,
-    "timeWeek": 591,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 597,
+    "timeDay": 665,
+    "timeWeek": 613,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-02-29": 115
+      "2024-02-29": 118
     }
   }
 ]
