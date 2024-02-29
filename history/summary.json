@@ -84,19 +84,19 @@
     "url": "$FSLABS_CI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ci",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 554,
     "timeDay": 586,
     "timeWeek": 548,
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-02-29": 31
+      "2024-02-29": 20
     }
   }
 ]
