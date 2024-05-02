@@ -87,7 +87,7 @@
     "url": "$FSLABS_CI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ci",
-    "status": "up",
+    "status": "down",
     "uptime": "90.32%",
     "uptimeDay": "79.95%",
     "uptimeWeek": "96.53%",
