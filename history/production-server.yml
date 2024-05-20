@@ -1,7 +1,7 @@
 url: $PREDICT_PROD_URL
 status: up
 code: 200
-responseTime: 323
-lastUpdated: 2024-05-19T23:00:28.921Z
+responseTime: 419
+lastUpdated: 2024-05-20T23:00:21.825Z
 startTime: 2023-05-09T19:41:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
