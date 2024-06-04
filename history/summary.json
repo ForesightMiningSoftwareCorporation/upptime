@@ -79,8 +79,7 @@
       "2023-07-31": 381,
       "2023-07-14": 90,
       "2023-07-13": 64,
-      "2023-06-12": 15,
-      "2023-06-05": 19
+      "2023-06-12": 15
     }
   },
   {
@@ -89,18 +88,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ci",
     "status": "up",
-    "uptime": "85.37%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "74.94%",
-    "uptimeMonth": "74.85%",
-    "uptimeYear": "85.37%",
+    "uptime": "85.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "75.31%",
+    "uptimeMonth": "74.87%",
+    "uptimeYear": "85.38%",
     "time": 1548,
     "timeDay": 535,
     "timeWeek": 3502,
     "timeMonth": 2696,
     "timeYear": 1548,
     "dailyMinutesDown": {
-      "2024-06-03": 9,
       "2024-06-02": 344,
       "2024-06-01": 110,
       "2024-05-29": 611,
