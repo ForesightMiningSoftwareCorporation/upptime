@@ -12,7 +12,7 @@ sites:
     url: $FSLABS_DT_DEV_URL
 
 status-website:
-  cname: status.foresightmining.com
+  cname: status.fslabs.ca
   name: ForesightMiningSoftwareCorporation
   theme: dark
   runner: "[self-hosted, standard]"
