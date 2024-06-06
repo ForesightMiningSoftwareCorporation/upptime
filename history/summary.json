@@ -89,19 +89,19 @@
     "url": "$FSLABS_DT_DEV_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dt-custodian-dev",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.08%",
+    "uptimeDay": "5.08%",
+    "uptimeWeek": "5.08%",
+    "uptimeMonth": "5.08%",
+    "uptimeYear": "5.08%",
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-06-06": 0
+      "2024-06-06": 3
     }
   }
 ]
