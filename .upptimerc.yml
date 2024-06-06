@@ -8,8 +8,8 @@ sites:
     url: $PREDICT_PROD_URL/fse/update?software=whirlpool&channel=nightly&platform=windows
   - name: Development server
     url: $PREDICT_DEV_URL
-  - name: CI
-    url: $FSLABS_CI_URL
+  - name: DT Custodian Dev
+    url: $FSLABS_DT_DEV_URL
 
 status-website:
   cname: status.foresightmining.com
