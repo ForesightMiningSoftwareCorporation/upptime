@@ -1,7 +1,7 @@
 url: $PREDICT_PROD_URL/fse/update?software=whirlpool&channel=nightly&platform=windows
 status: up
 code: 200
-responseTime: 107
-lastUpdated: 2024-07-20T08:21:45.705Z
+responseTime: 122
+lastUpdated: 2024-07-20T23:00:21.263Z
 startTime: 2023-05-15T19:04:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
